@@ -1,6 +1,6 @@
 {
-  "name": "custom-code-remover",
-  "version": "1.0.0",
+  "name": "typescript-transform-decorator-code-remover",
+  "version": "1.0.1",
   "description": "This transformer will remove the parts of code in final build based on custom settings",
   "main": "dist/index.js",
   "keywords": [
