@@ -1,0 +1,20 @@
+{
+  "name": "custom-code-remover",
+  "version": "1.0.0",
+  "description": "This transformer will remove the parts of code in final build based on custom settings",
+  "main": "dist/index.js",
+  "keywords": [
+    "typescript",
+    "plugin",
+    "trasform",
+    "decorator",
+    "remover",
+    "build optimize"
+  ],
+  "author": "Naman Kheterpal",
+  "license": "ISC",
+  "dependencies": {
+    "ts-is-kind": "^1.0.0",
+    "typescript": "^3.0.1"
+  }
+}
